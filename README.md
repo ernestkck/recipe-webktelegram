@@ -6,4 +6,4 @@ This is the official Franz recipe for Telegram modified to webk.telegram.org
 
 
 ### How to use
-Copy folder to %AppData%\Franz\recipes\dev
+Copy folder to %AppData%\Franz\recipes\dev\
