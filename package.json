@@ -1,0 +1,14 @@
+{
+  "id": "telegramwebk",
+  "name": "Telegram Webk",
+  "version": "1.0.5",
+  "description": "Telegram Webk",
+  "main": "index.js",
+  "author": "Stefan Malzner <stefan@adlk.io>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://webk.telegram.org",
+    "hasDirectMessages": true,
+    "hasNotificationSound": true
+  }
+}
